@@ -1,0 +1,11 @@
+1) use underscore(done)
+ user = new User(_.pick(req.body, ['name', 'email', 'password']));
+
+2) use encrypt
+  const salt = await bcrypt.genSalt(10);
+  user.password = await bcrypt.hash(user.password, salt);
+
+3) use winston/ handle error
+
+4) login
+
