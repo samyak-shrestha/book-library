@@ -10,3 +10,7 @@
 4) use winston/ handle error
 
 5) use .env for local and use secret key in user model generateAuthToken
+
+-> use fawn
+
+-> mongo relations
