@@ -1,0 +1,24 @@
+- config
+- controllers ( business logic crud)
+- loaders
+    - db (connecting db and setting log using winston)
+    - logging (hanldes exception and write into files or db also using winston)
+    - routes 
+    - validation
+- middleware
+    - admin (check if logged in users is isAdmin or not or block the access to specific path/url)
+    - async
+    - auth (check token send by user  req.header('x-auth-token') is valid or not by decoding comparing with jwtauthcode)
+    - error
+    - validate
+    - validateObjectId ( valdiate with mongo req.params.id send by users entering controller)
+- models
+- pubic
+- helpers
+- services
+- jobs
+- subscribers
+
+-   index.js
+-   logFile.log
+-   uncaughtExpections.log

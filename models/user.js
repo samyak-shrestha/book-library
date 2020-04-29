@@ -38,6 +38,8 @@ const userSchema = new mongoose.Schema({
 });
 
 userSchema.methods.generateAuthToken = function(){
+    // const token = jwt.sign({ _id: this._id, isAdmin: this.isAdmin }, config.get('jwtPrivateKey'));
+    //  use .env for local and //config for production
     const token = jwt.sign({ _id : this._id, isAdmin: this.isAdmin}, 'abcdefgh');
     return token;
 }

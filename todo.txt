@@ -1,16 +1,35 @@
-1) use underscore(done)
- user = new User(_.pick(req.body, ['name', 'email', 'password']));
+- use underscore(done)
+      - user = new User(_.pick(req.body, ['name', 'email', 'password']));
 
-2) use encrypt(done)
-  const salt = await bcrypt.genSalt(10);
-  user.password = await bcrypt.hash(user.password, salt);
+- use encrypt(done)
+      - const salt = await bcrypt.genSalt(10);
+      - user.password = await bcrypt.hash(user.password, salt);
 
-3) login
 
-4) use winston/ handle error
+- use winston/ handle error (done)
+- check id before login(done)
+- token check (done)
 
-5) use .env for local and use secret key in user model generateAuthToken
+- login
+      - create controller -> auth.js for login and 
 
--> use fawn
+- use .env for local and use secret key in user model generateAuthToken
+    - use .env for local and //config for production 
 
--> mongo relations
+-> use jwtPrivateKey
+-> use config
+-> use .env
+
+-> use genreId
+      in movies/books
+       in model
+            - genreId: Joi.objectId().required(),
+
+      -    
+      in controller
+            - const genre = await Genre.findById(req.body.genreId);
+            - if(!genre) return res.status(400).send('Invalid Genre');
+
+->  mongo relations
+->  use fawn  // Fawn.init(mongoose);
+
