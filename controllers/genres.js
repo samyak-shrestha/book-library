@@ -5,7 +5,7 @@ const router = express.Router();
 const {Genre, validateGenre } = require('../models/genre');
 
 router.get('/', async (req, res) => {
-    const gernes = await Genre.find().sort('name');
+    const gernes = await Genre.find().sort('title');
     res.send(gernes);
 });
 
@@ -13,7 +13,7 @@ router.post('/', auth, async (req, res)=>{
     const { error } = validateGenre(req.body);
     if(error) return res.status(400).send(error.details[0].message);
 
-    let genre = new Genre({name: req.body.name});
+    let genre = new Genre({title: req.body.title});
     genre = await genre.save();
 
     res.send(genre);
@@ -34,7 +34,7 @@ router.put('/:id',  [auth, validateObjectId], async(req, res) =>{
 
     if(error) return res.status(400).send(error.details[0].message);
 
-    const genre = await Genre.findByIdAndUpdate(req.params.id, { name: req.body.name }, {
+    const genre = await Genre.findByIdAndUpdate(req.params.id, { title: req.body.title }, {
         new: true
     });
 

@@ -33,3 +33,4 @@
 ->  mongo relations
 ->  use fawn  // Fawn.init(mongoose);
 
+-> list of api(swagger)

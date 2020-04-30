@@ -39,3 +39,148 @@
 {"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-29T07:14:34.445Z"}
 {"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-29T07:17:59.069Z"}
 {"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-29T07:17:59.124Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-29T07:21:17.866Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-29T07:21:17.911Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T06:24:05.835Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T06:24:05.924Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T06:31:18.532Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T06:31:18.628Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T06:34:27.079Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T06:34:27.117Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T06:34:35.454Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T06:34:35.505Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T06:36:50.065Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T06:36:50.100Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T06:36:54.630Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T06:36:54.677Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T06:37:55.048Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T06:37:55.094Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T06:38:03.325Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T06:38:03.360Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T06:38:44.074Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T06:38:44.115Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T06:40:20.267Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T06:40:20.301Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T06:41:05.464Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T06:41:05.499Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T06:41:09.688Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T06:41:09.726Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T06:41:36.844Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T06:41:36.883Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T06:43:32.142Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T06:43:32.181Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T06:44:22.580Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T06:44:22.615Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T06:44:58.200Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T06:44:58.238Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T06:46:25.848Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T06:46:25.888Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T06:47:07.825Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T06:47:07.860Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T06:47:18.156Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T06:47:18.212Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T06:50:04.134Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T06:50:04.193Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T06:51:58.582Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T06:51:58.621Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T06:52:15.641Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T06:52:15.691Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T06:52:28.171Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T06:52:28.209Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T06:52:58.588Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T06:52:58.623Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T06:53:17.021Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T06:53:17.056Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T06:53:20.817Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T06:53:20.854Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T06:54:11.514Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T06:54:11.558Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T06:55:00.716Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T06:55:00.759Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T06:55:11.613Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T06:55:11.649Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T06:55:14.299Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T06:55:14.336Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T06:55:31.137Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T06:55:31.203Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T06:55:44.387Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T06:55:44.423Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T06:56:03.175Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T06:56:03.213Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T06:56:19.341Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T06:56:19.376Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T06:56:38.316Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T06:56:38.353Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T06:57:07.473Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T06:57:07.513Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T06:57:17.409Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T06:57:17.447Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T06:59:39.415Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T06:59:39.458Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T06:59:44.033Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T06:59:44.070Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T06:59:46.467Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T06:59:46.507Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T07:00:37.643Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T07:00:37.706Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T07:03:04.362Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T07:03:04.400Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T07:03:09.495Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T07:03:09.538Z"}
+{"message":"Author validation failed: title: Path `title` is required.","errors":{"title":{"message":"Path `title` is required.","name":"ValidatorError","properties":{"message":"Path `title` is required.","type":"required","path":"title"},"kind":"required","path":"title"}},"_message":"Author validation failed","stack":"ValidationError: Author validation failed: title: Path `title` is required.\n    at new ValidationError (/home/shrestha/learning/node/code/book-library/node_modules/mongoose/lib/error/validation.js:31:11)\n    at model.Document.invalidate (/home/shrestha/learning/node/code/book-library/node_modules/mongoose/lib/document.js:2554:32)\n    at /home/shrestha/learning/node/code/book-library/node_modules/mongoose/lib/document.js:2376:17\n    at /home/shrestha/learning/node/code/book-library/node_modules/mongoose/lib/schematype.js:1099:9\n    at _combinedTickCallback (internal/process/next_tick.js:131:7)\n    at process._tickCallback (internal/process/next_tick.js:180:9)","name":"ValidationError","level":"error","timestamp":"2020-04-30T07:03:31.393Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T07:03:56.590Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T07:03:56.664Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T07:04:08.630Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T07:04:08.681Z"}
+{"message":"Unexpected token \t in JSON at position 14","stack":"SyntaxError: Unexpected token \t in JSON at position 14\n    at JSON.parse (<anonymous>)\n    at parse (/home/shrestha/learning/node/code/book-library/node_modules/body-parser/lib/types/json.js:89:19)\n    at /home/shrestha/learning/node/code/book-library/node_modules/body-parser/lib/read.js:121:18\n    at invokeCallback (/home/shrestha/learning/node/code/book-library/node_modules/raw-body/index.js:224:16)\n    at done (/home/shrestha/learning/node/code/book-library/node_modules/raw-body/index.js:213:7)\n    at IncomingMessage.onEnd (/home/shrestha/learning/node/code/book-library/node_modules/raw-body/index.js:273:7)\n    at emitNone (events.js:106:13)\n    at IncomingMessage.emit (events.js:208:7)\n    at endReadableNT (_stream_readable.js:1064:12)\n    at _combinedTickCallback (internal/process/next_tick.js:138:11)\n    at process._tickCallback (internal/process/next_tick.js:180:9)","expose":true,"statusCode":400,"status":400,"body":"{\n\t\"title\" : \"\tPaulo Coelho\"\n}","type":"entity.parse.failed","level":"error","timestamp":"2020-04-30T07:05:46.327Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T07:17:33.644Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T07:17:33.740Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T07:27:04.833Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T07:27:04.889Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T07:32:40.078Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T07:32:40.118Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T07:32:54.188Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T07:32:54.251Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T07:34:47.106Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T07:34:47.148Z"}
+{"message":"validate is not defined","stack":"ReferenceError: validate is not defined\n    at router.post (/home/shrestha/learning/node/code/book-library/controllers/books.js:12:18)\n    at /home/shrestha/learning/node/code/book-library/node_modules/express-async-errors/index.js:17:20\n    at Layer.handle [as handle_request] (/home/shrestha/learning/node/code/book-library/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/shrestha/learning/node/code/book-library/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/home/shrestha/learning/node/code/book-library/node_modules/express/lib/router/route.js:112:3)\n    at /home/shrestha/learning/node/code/book-library/node_modules/express-async-errors/index.js:17:20\n    at Layer.handle [as handle_request] (/home/shrestha/learning/node/code/book-library/node_modules/express/lib/router/layer.js:95:5)\n    at /home/shrestha/learning/node/code/book-library/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/home/shrestha/learning/node/code/book-library/node_modules/express/lib/router/index.js:335:12)\n    at next (/home/shrestha/learning/node/code/book-library/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/home/shrestha/learning/node/code/book-library/node_modules/express/lib/router/index.js:174:3)\n    at router (/home/shrestha/learning/node/code/book-library/node_modules/express/lib/router/index.js:47:12)\n    at /home/shrestha/learning/node/code/book-library/node_modules/express-async-errors/index.js:17:20\n    at Layer.handle [as handle_request] (/home/shrestha/learning/node/code/book-library/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/home/shrestha/learning/node/code/book-library/node_modules/express/lib/router/index.js:317:13)\n    at /home/shrestha/learning/node/code/book-library/node_modules/express/lib/router/index.js:284:7","level":"error","timestamp":"2020-04-30T07:35:24.603Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T07:35:42.485Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T07:35:42.521Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T07:36:37.777Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T07:36:37.827Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T08:08:34.924Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T08:08:34.976Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T08:08:42.612Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T08:08:42.648Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T08:09:03.451Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T08:09:03.490Z"}
+{"message":"Books validation failed: genre.title: Path `title` is required., author.title: Path `title` is required., genre: Validation failed: title: Path `title` is required., author: Validation failed: title: Path `title` is required.","errors":{"genre.title":{"message":"Path `title` is required.","name":"ValidatorError","properties":{"message":"Path `title` is required.","type":"required","path":"title"},"kind":"required","path":"title"},"author.title":{"message":"Path `title` is required.","name":"ValidatorError","properties":{"message":"Path `title` is required.","type":"required","path":"title"},"kind":"required","path":"title"},"genre":{"errors":{"title":{"$ref":"$[\"errors\"][\"genre.title\"]"}},"_message":"Validation failed","message":"Validation failed: title: Path `title` is required.","name":"ValidationError"},"author":{"errors":{"title":{"$ref":"$[\"errors\"][\"author.title\"]"}},"_message":"Validation failed","message":"Validation failed: title: Path `title` is required.","name":"ValidationError"}},"_message":"Books validation failed","stack":"ValidationError: Books validation failed: genre.title: Path `title` is required., author.title: Path `title` is required., genre: Validation failed: title: Path `title` is required., author: Validation failed: title: Path `title` is required.\n    at new ValidationError (/home/shrestha/learning/node/code/book-library/node_modules/mongoose/lib/error/validation.js:31:11)\n    at model.Document.invalidate (/home/shrestha/learning/node/code/book-library/node_modules/mongoose/lib/document.js:2554:32)\n    at SingleNested.Subdocument.invalidate (/home/shrestha/learning/node/code/book-library/node_modules/mongoose/lib/types/subdocument.js:167:18)\n    at /home/shrestha/learning/node/code/book-library/node_modules/mongoose/lib/document.js:2376:17\n    at /home/shrestha/learning/node/code/book-library/node_modules/mongoose/lib/schematype.js:1099:9\n    at _combinedTickCallback (internal/process/next_tick.js:131:7)\n    at process._tickCallback (internal/process/next_tick.js:180:9)","name":"ValidationError","level":"error","timestamp":"2020-04-30T08:09:17.260Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T08:09:33.529Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T08:09:33.564Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T08:10:15.461Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T08:10:15.500Z"}
+{"message":"Books validation failed: genre.title: Path `title` is required., author.title: Path `title` is required., genre: Validation failed: title: Path `title` is required., author: Validation failed: title: Path `title` is required.","errors":{"genre.title":{"message":"Path `title` is required.","name":"ValidatorError","properties":{"message":"Path `title` is required.","type":"required","path":"title"},"kind":"required","path":"title"},"author.title":{"message":"Path `title` is required.","name":"ValidatorError","properties":{"message":"Path `title` is required.","type":"required","path":"title"},"kind":"required","path":"title"},"genre":{"errors":{"title":{"$ref":"$[\"errors\"][\"genre.title\"]"}},"_message":"Validation failed","message":"Validation failed: title: Path `title` is required.","name":"ValidationError"},"author":{"errors":{"title":{"$ref":"$[\"errors\"][\"author.title\"]"}},"_message":"Validation failed","message":"Validation failed: title: Path `title` is required.","name":"ValidationError"}},"_message":"Books validation failed","stack":"ValidationError: Books validation failed: genre.title: Path `title` is required., author.title: Path `title` is required., genre: Validation failed: title: Path `title` is required., author: Validation failed: title: Path `title` is required.\n    at new ValidationError (/home/shrestha/learning/node/code/book-library/node_modules/mongoose/lib/error/validation.js:31:11)\n    at model.Document.invalidate (/home/shrestha/learning/node/code/book-library/node_modules/mongoose/lib/document.js:2554:32)\n    at SingleNested.Subdocument.invalidate (/home/shrestha/learning/node/code/book-library/node_modules/mongoose/lib/types/subdocument.js:167:18)\n    at /home/shrestha/learning/node/code/book-library/node_modules/mongoose/lib/document.js:2376:17\n    at /home/shrestha/learning/node/code/book-library/node_modules/mongoose/lib/schematype.js:1099:9\n    at _combinedTickCallback (internal/process/next_tick.js:131:7)\n    at process._tickCallback (internal/process/next_tick.js:180:9)","name":"ValidationError","level":"error","timestamp":"2020-04-30T08:10:19.417Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T08:12:02.942Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T08:12:02.996Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T08:14:26.662Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T08:14:26.739Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T08:14:29.120Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T08:14:29.190Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T08:16:33.062Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T08:16:33.115Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T08:19:26.777Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T08:19:26.814Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T08:27:02.555Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T08:27:02.602Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T08:27:14.386Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T08:27:14.428Z"}
+{"message":"req is not defined","stack":"ReferenceError: req is not defined\n    at router.get (/home/shrestha/learning/node/code/book-library/controllers/books.js:41:38)\n    at /home/shrestha/learning/node/code/book-library/node_modules/express-async-errors/index.js:17:20\n    at Layer.handle [as handle_request] (/home/shrestha/learning/node/code/book-library/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/shrestha/learning/node/code/book-library/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/home/shrestha/learning/node/code/book-library/node_modules/express/lib/router/route.js:112:3)\n    at /home/shrestha/learning/node/code/book-library/node_modules/express-async-errors/index.js:17:20\n    at Layer.handle [as handle_request] (/home/shrestha/learning/node/code/book-library/node_modules/express/lib/router/layer.js:95:5)\n    at /home/shrestha/learning/node/code/book-library/node_modules/express/lib/router/index.js:281:22\n    at param (/home/shrestha/learning/node/code/book-library/node_modules/express/lib/router/index.js:354:14)\n    at param (/home/shrestha/learning/node/code/book-library/node_modules/express/lib/router/index.js:365:14)\n    at Function.process_params (/home/shrestha/learning/node/code/book-library/node_modules/express/lib/router/index.js:410:3)\n    at next (/home/shrestha/learning/node/code/book-library/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/home/shrestha/learning/node/code/book-library/node_modules/express/lib/router/index.js:174:3)\n    at router (/home/shrestha/learning/node/code/book-library/node_modules/express/lib/router/index.js:47:12)\n    at /home/shrestha/learning/node/code/book-library/node_modules/express-async-errors/index.js:17:20\n    at Layer.handle [as handle_request] (/home/shrestha/learning/node/code/book-library/node_modules/express/lib/router/layer.js:95:5)","level":"error","timestamp":"2020-04-30T08:28:04.298Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T08:28:30.066Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T08:28:30.143Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T08:28:35.783Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T08:28:35.828Z"}
+{"message":"books is not defined","stack":"ReferenceError: books is not defined\n    at router.put (/home/shrestha/learning/node/code/book-library/controllers/books.js:74:5)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)","level":"error","timestamp":"2020-04-30T08:29:06.927Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T08:29:36.893Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T08:29:36.965Z"}
+{"level":"info","message":"Listening at port 3000 ...","timestamp":"2020-04-30T08:30:40.635Z"}
+{"level":"info","message":"Connected to mongodb://localhost/bookLibrary...","timestamp":"2020-04-30T08:30:40.708Z"}
