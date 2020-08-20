@@ -13,7 +13,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "mongoose": "^5.9.9",
-    "bcrypt": "^1.0.3",
+    "bcrypt": "^5.0.0",
     "joi": "^13.1.0",
     "joi-objectid": "^2.0.0",
     "jsonwebtoken": "^8.1.1",
